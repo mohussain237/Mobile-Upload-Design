@@ -27,9 +27,12 @@ body {
 }
 
 @media (max-width: 800px) {
+  body {
+    background-color: ghostwhite;
+  }
   .page-container {
-    padding: 1rem;
-    background: #fefefe;
+    padding: 0.5rem;
+    background-color: ghostwhite;
   }
   iframe {
     height: 450px;
