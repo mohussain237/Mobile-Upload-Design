@@ -23,7 +23,7 @@ npm run dev
 
 ### Mobile View 
 <img width="357" height="523" alt="image" src="https://github.com/user-attachments/assets/d293c1dc-ba54-4a7e-8b21-e8d3ecc8a3b5" />
-------------------------------------------------------------
+
 ### Desktop View
 <img width="1116" height="572" alt="image" src="https://github.com/user-attachments/assets/f326207d-7e7c-4aa9-a474-743529b21755" />
 
