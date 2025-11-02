@@ -15,7 +15,7 @@ The UI adapts smoothly between desktop and mobile screens, ensuring a smooth use
 
 ## How to run locally,
 1. Clone the repository
-git clone https://github.com/[mobile upload branch url]
+git clone https://github.com/mohussain237/Mobile-Upload-Design.git
 
 2. Navigate to project directory
 cd mobile-upload-design
