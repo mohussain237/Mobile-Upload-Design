@@ -14,16 +14,16 @@ It simulates a real-world file upload workflow where a user selects a PDF, the s
 The UI adapts smoothly between desktop and mobile screens, ensuring a smooth user experience across devices.
 
 ## How to run locally,
-1. Clone the repository
+1. Clone the repository - 
 git clone https://github.com/mohussain237/Mobile-Upload-Design.git
 
-2. Navigate to project directory
+2. Navigate to project directory- 
 cd mobile-upload-design
 
-3. Install dependencies
+3. Install dependencies - 
 npm install
 
-4. Start the development server
+4. Start the development server - 
 npm run dev
 
 5. Open your browser
